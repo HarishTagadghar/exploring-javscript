@@ -7,3 +7,4 @@ let myArray = ["john","mark","sandy"];
 let myObject = { name:"john", age:25};
 
 console.log(mynumber);
+ 
