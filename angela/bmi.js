@@ -4,3 +4,4 @@ function bmi(weight,hight){
 }
 
 console.log(bmi(60,1.7));
+ 
